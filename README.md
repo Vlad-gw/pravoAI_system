@@ -42,7 +42,7 @@
 Для запуска необходимы **Docker Desktop** и **Ollama**.
 
 ```bash
-git clone <URL_РЕПОЗИТОРИЯ>
-cd pravoai_universal_edition_v6_1
+git clone https://github.com/Vlad-gw/pravoAI_system.git
+cd pravoAI_system
 chmod +x *.command *.sh ops/*.sh
 ./start.command
